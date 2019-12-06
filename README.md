@@ -1,2 +1,2 @@
 # smart-parking-system
-Alloting the parking spac using with best slot using Iot
+Alloting the parking space using with best slot using Iot
